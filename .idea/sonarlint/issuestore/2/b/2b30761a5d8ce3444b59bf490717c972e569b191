@@ -1,0 +1,8 @@
+
+k
+java:S2095"IUse try-with-resources or close this "InputStream" in a "finally" clause.(ÄªÛüÿÿÿÿ8ûöæÜ1
+^
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(ĞèÄü8í§öæÜ1
+K
+java:S1128
+")Remove this unused import 'java.net.URL'.(ñìÁ„üÿÿÿÿ8šûöæÜ1
